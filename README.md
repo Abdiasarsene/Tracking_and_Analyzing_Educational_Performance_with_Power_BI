@@ -6,7 +6,9 @@ The goal of this project is to develop an **interactive dashboard** designed to:
 - 📈 **Track student performance** (success rate, academic progress, absences).
 - 🏫 **Manage educational resources** (classroom usage, teacher allocation).
 - 🎓 **Evaluate educational programs** (student satisfaction, retention rate, course effectiveness).
-[Dashboard](https://github.com/Abdiasarsene/images/teachers.png)
+
+![Dashboard](./images/teachers.png)
+
 ---
 
 ## 🛠️ Technologies and Tools
@@ -33,7 +35,9 @@ The dashboard is structured into three main sections:
   - By class
   - By subject
   - By period
-[Mobile Dashboard](https://github.com/Abdiasarsene/images/student_mobile.png)
+
+![Mobile Dashboard](./images/student_mobile.png)
+
 ### 2. Management of Educational Resources
 - **Key Indicators**:
   - Classroom utilization
@@ -69,7 +73,8 @@ The dashboard is structured into three main sections:
 | **Testing and Validation** | Test dashboard functionalities and validate data accuracy. |
 | **Deployment and Training** | Deploy the dashboard solution and provide user training. |
 
-[Homepage](https://github.com/Abdiasarsene/images/dashboard.png)
+![Homepage](./images/dashboard.png)
+
 ---
 
 ## 📂 Repository Structure
